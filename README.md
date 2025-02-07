@@ -49,7 +49,7 @@ Before using the tool, ensure you have the necessary dependencies installed.
 
 ## How to Use the Rank Pack Creator
 1. **Launch the Program**
-   - Open the script via **Command Prompt (Windows)** or **Terminal (Mac)**.
+   - Open the script via **Command Prompt (Windows)** or **Terminal (Mac)**, more specific steps outlined above.
 
 2. **Upload Rank Images**
    - Click the "Upload Image" button.
