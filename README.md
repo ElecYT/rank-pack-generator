@@ -1,5 +1,6 @@
 # Rank Pack Creator - User Guide
-
+❤️ Find this helpful? Please support me! ❤️ <br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W519BLK3)
 ## Overview
 The Rank Pack Creator is a tool that allows users to generate a Minecraft resource pack with custom rank textures and Unicode mappings. Users can upload images, assign rank names, and export a properly structured resource pack.
 
@@ -85,7 +86,7 @@ Before using the tool, ensure you have the necessary dependencies installed.
 ---
 
 ## Support
-If you encounter issues, ensure Python and dependencies are correctly installed. For further assistance, check the error messages or reinstall the dependencies.
+If you encounter issues, ensure Python and dependencies are correctly installed. For further assistance, check the error messages or reinstall the dependencies. If all else fails, create an issue on github.
 
 Enjoy customizing your Minecraft ranks!
 
